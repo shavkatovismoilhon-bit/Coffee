@@ -1,0 +1,8 @@
+<!-- <input class="container" id="username" type="text" placeholder="Ismingizni kiriting">
+ <button class="container1" id="head">Chiqarish</button>
+ <div>
+    <ul>
+
+    </ul> -->
+ <!-- </div> -->
+ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
